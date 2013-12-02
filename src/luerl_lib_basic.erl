@@ -12,11 +12,11 @@
 %% See the License for the specific language governing permissions and
 %% limitations under the License.
 
-%% File    : luerl_basic.erl
+%% File    : luerl_lib_basic.erl
 %% Author  : Robert Virding
 %% Purpose : The basic library for Luerl.
 
--module(luerl_basic).
+-module(luerl_lib_basic).
 
 -include("luerl.hrl").
 
